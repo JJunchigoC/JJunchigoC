@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=38&pause=1000&color=003366&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8;System+Programming+%26+Algorithms;Loves+C%2B%2B,+OpenCV+%26+3D+Printing+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=38&pause=1000&color=003366&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8>
   </a>
 </div>
 
@@ -11,11 +11,11 @@
 <br/>
 
 <div align="center">
-  <h3>👨‍💻 About Me</h3>
+  <h3>👨‍💻 About Me？</h3>
   
   <p>
     I am a developer passionate about <b>High-Performance Computing</b> and <b>Intelligent Manufacturing</b>.<br>
-    I enjoy diving deep into low-level systems, optimizing code, and bringing digital models to life.
+    I enjoy diving deep into systems control, optimizing code, and bringing digital models to life.
   </p>
 
   <p>
