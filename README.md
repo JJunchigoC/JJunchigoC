@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&width=600&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8 alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&width=600&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8;" alt="Typing SVG" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f471070d-4965-4849-9b76-41ed494294d1.gif" width="100%">
@@ -35,4 +35,4 @@ I am a developer passionate about **High-Performance Computing** and **Intellige
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
 
 <br/>
-<img src="https://media.giphy.com/media/Qcjv4R63g17Ww/giphy.gif" width="60"> <i>Thanks for dropping by!</i>
+<i>Thanks for dropping by!</i>
