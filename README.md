@@ -12,7 +12,7 @@ Passionate developer focused on **High-Performance Computing** and **Intelligent
 I love optimizing code, accelerating algorithms, and bringing digital models to real life! 🏃‍♂️💨
 
 **🔭 Current Focus:** System Programming | Algorithms | Computer Vision  
-**🌱 Learning:** Modern C++ (17/20/23)  
+**🌱 Learning:** C++  
 **🧩 Hobby:** Fitness & Strength Training
 
 <br>
