@@ -15,7 +15,6 @@ I love optimizing code, accelerating algorithms, and bringing digital models to 
 **🌱 Learning:** C++  
 **🧩 Hobby:** Fitness & Strength Training
 
-<br>
 
 <h2>🛠️ Tech Stack & Tools</h2>
 
