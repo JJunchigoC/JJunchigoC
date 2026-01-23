@@ -7,6 +7,7 @@
 ### ☁️ About Me
 
 I am a developer passionate about High-Performance Computing and Intelligent Manufacturing. 
+
 I enjoy optimizing code and bringing digital models to life! 🏃‍♂️💨
 
 * 🔭 **Current Focus:** System Programming, Algorithms, and Computer Vision.
