@@ -1,4 +1,3 @@
-<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&width=600&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8;" alt="Typing SVG" />
 </a>
