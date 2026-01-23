@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&width=600&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8;System+Programming+%26+Algorithms+%F0%9F%92%BB;Loves+C%2B%2B,+OpenCV+%26+3D+Printing+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&pause=1000&color=003366&width=600&lines=Hi+there,+I'm+Junchi!+%E2%9C%A8 alt="Typing SVG" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f471070d-4965-4849-9b76-41ed494294d1.gif" width="100%">
@@ -30,14 +30,9 @@ I am a developer passionate about **High-Performance Computing** and **Intellige
 **Engineering & Simulation**
 <br>
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-<a href="https://www.ansys.com/"><img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black" alt="Ansys"/></a>
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f471070d-4965-4849-9b76-41ed494294d1.gif" width="100%">
 
 <br/>
 <img src="https://media.giphy.com/media/Qcjv4R63g17Ww/giphy.gif" width="60"> <i>Thanks for dropping by!</i>
