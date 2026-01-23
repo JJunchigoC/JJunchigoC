@@ -4,7 +4,6 @@
   </a>
 </div>
 
-<br>
 
 <h2>☁️ About Me</h2>
 
