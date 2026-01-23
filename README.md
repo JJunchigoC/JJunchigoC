@@ -19,7 +19,6 @@ I love optimizing code, accelerating algorithms, and bringing digital models to 
 
 <h2>🛠️ Tech Stack & Tools</h2>
 
-**My favorite weapons of choice** ⚔️
 
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
@@ -35,4 +34,4 @@ I love optimizing code, accelerating algorithms, and bringing digital models to 
 
 <br>
 
-<i>Thanks for stopping by! Feel free to explore my repos 🚀</i>
+<i>Thanks for stopping by! 🚀</i>
