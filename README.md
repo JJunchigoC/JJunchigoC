@@ -12,7 +12,7 @@ Passionate developer focused on **High-Performance Computing** and **Intelligent
 I love optimizing code, accelerating algorithms, and bringing digital models to real life! 🏃‍♂️💨
 
 **🔭 Current Focus:** System Programming | Algorithms | Computer Vision  
-**🌱 Learning:** Modern C++ (17/20/23) · Heterogeneous Computing (CUDA/SYCL)  
+**🌱 Learning:** C++ 
 **🧩 Hobby:** Fitness & Strength Training
 
 <br>
@@ -39,7 +39,3 @@ I love optimizing code, accelerating algorithms, and bringing digital models to 
 
 <i>Thanks for stopping by! Feel free to explore my repos 🚀</i><br><br>
 
-<!-- 可选：GitHub 统计卡片（如果你想加，取消注释即可，它会自动居中很多时候，但这里不强制） -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=JJunchi_&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
--->
