@@ -1,17 +1,13 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&color=0078D7&width=650&center=true&vCenter=true&lines=Hi+there!+I'm+Junchi+👋;Bridging+Physical+%26+Digital+Worlds+🌌;PhD+Researcher+%40+NCSU+🐺;3D+Reconstruction+%7C+Computer+Vision+👁️;Architecting+Digital+Twins+⚙️" alt="Typing SVG" />
-  </a>
-</div>
-
-<h2 align="center">⚡ About Me</h2>
+<h1 align="center">Hi there! I'm Junchi Jiang 👋</h1>
 
 <div align="center">
   <i>Pioneering the intersection of <b>High-Performance Computing</b>, <b>Computer Vision</b>, and <b>Advanced Materials</b>.</i><br>
   <i>I don't just write code—I build digital twins of the physical world! 🦾</i>
 </div>
+
 <br>
 
+**🐺 Affiliation:** PhD Researcher @ NCSU  
 **🔭 Current Focus:** 3D Reconstruction | Physics-Informed Algorithms | System Programming  
 **🌱 Deep Diving:** Advanced **`C++`** architecture & AI-driven physical modeling  
 **🧩 Off-Screen:** Iron lifter 🏋️‍♂️ (Fitness & Strength Training)
