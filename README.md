@@ -2,7 +2,7 @@
 
 <div align="center">
   <i>Pioneering the intersection of <b>High-Performance Computing</b>, <b>Computer Vision</b>, and <b>Advanced Materials</b>.</i><br>
-  <i>I don't just write code—I build digital twins of the physical world! 🦾</i>
+  <i>I don't just write code🦾</i>
 </div>
 
 <br>
